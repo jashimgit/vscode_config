@@ -1,0 +1,67 @@
+{
+    "workbench.colorTheme": "GitHub Sharp Dark",
+    "editor.fontFamily": "'Fira Code Retina', 'Droid Sans Mono', 'monospace', 'Droid Sans Fallback'",
+    "editor.fontSize": 12,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "workbench.activityBar.visible": true,
+    "explorer.openEditors.visible": 0,
+    "files.autoSave": "afterDelay",
+    "bracketPairColorizer.showBracketsInGutter": true,
+    "indentRainbow.colors": [
+        "rgba(255,255,64,0.07)",
+        "rgba(127,255,127,0.07)",
+        "rgba(255,127,255,0.07)",
+        "rgba(79,236,236,0.07)"
+    ],
+    "indentRainbow.errorColor": "rgba(128,32,32,0.6)",
+    // Highlight matching Tag
+    "highlight-matching-tag.styles": {
+        "opening": {
+          "left": {
+            "custom": {
+              "borderWidth": "0 0 0 2px",
+              "borderStyle": "solid",
+              "borderColor": "red",
+              "borderRadius": "4px",
+              "overviewRulerColor": "white"
+            }
+          },
+          "right": {
+            "custom": {
+              "borderWidth": "0 2px 0 0",
+              "borderStyle": "solid",
+              "borderColor": "red",
+              "borderRadius": "4px",
+              "overviewRulerColor": "white"
+            }
+          }
+        }
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "window.openFilesInNewWindow": "on",
+    "workbench.statusBar.visible": true,
+    "editor.cursorWidth": 0,
+    "terminal.integrated.fontSize": 12,
+    "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
+    "[php]": {
+      "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "window.zoomLevel": 0,
+    "editor.wordWrap": "on",
+    "php-cs-fixer.lastDownload": 1587317120685,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave":true
+      },
+      "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+      },
+      // Set the default
+    "editor.formatOnSave": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.multiCursorModifier": "alt"
+
+}
